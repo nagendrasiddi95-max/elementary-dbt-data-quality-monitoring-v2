@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Welcome to your new dbt project!
 
 ### Using the starter project
@@ -22,3 +23,7 @@ Try running the following commands:
 # elementary-dbt-data-quality-monitoring
 Data quality monitoring using dbt, Elementary, and ClickHouse.
 >>>>>>> f44494eb55a8cdcbaffced05a2c604a91d707180
+=======
+# elementary-dbt-data-quality-monitoring-v2
+Data quality monitoring using dbt, Elementary, and ClickHouse.
+>>>>>>> 0b4c566b1a5d28cce08beaddcb53661cd4299280
